@@ -1,10 +1,10 @@
 # C-Basic-Bank-Automation
 
 Windows
-Double Click To Main.exe
+Double Click To Main.exe<br>
 
-Unix/Linux
-Run Terminal Command >> gcc main.c
-Run Terminal Command >> ./a.out
-or
+Unix/Linux<br>
+Run Terminal Command >> gcc main.c<br>
+Run Terminal Command >> ./a.out<br>
+or<br>
 Run Terminal Command >> ./main
